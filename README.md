@@ -2,17 +2,17 @@
 
 ## Description
 
-[Deployed Application]()
+[Deployed Application](https://track-my-budget-app.herokuapp.com/)
 
 We all get busy, and for most of us, tracking our income and expenses can be a hassle. Track My Budget was developed to make this process as straight forward as possible. With this app, you can add your income and expenses on demand and never lose track of your budget.
 
-Sick of using pen and paper or spreadsheets to track your sources of income and expense? Looking for a cleaner way to stay on top of your budget? Then behold the most convenient budget tracker you'll ever use with the Track My Budget app.
+Sick of using pen and paper or spreadsheets to track your sources of income and expense? Looking for a cleaner way to stay on top of your budget? Then behold the most convenient budget tracker you'll ever use with the Track My Budget app. Did we mention that you can run this app both online and offline. How neat is that?
 
 If you are interested in improving or modifying this application for your own personal usage, please go ahead and clone down the repository and transform it into your own amazing budget tracker.
 
-[Link to video demo of app]( )
+[Link to video demo of app](https://drive.google.com/file/d/1OTlMpv8sMGRrLNV2szCR-xXwWbcs0xK1/view?usp=sharing)
 
-![Giphy demo of project]( )
+![Giphy demo of project](./public/images/track-my-budget-gif.gif)
 
 ## Table of Contents
 
@@ -45,10 +45,10 @@ If you are interested in improving or modifying this application for your own pe
 ## Screenshots
 
 Desktop:
-![Desktop view of application]()
+![Desktop view of application](./public/images/track-my-budget-desktop.png)
 
 Mobile:
-![Mobile view of application]()
+![Mobile view of application](./public/images/track-my-budget-mobile.png)
 
 ## Credits
 
@@ -68,7 +68,9 @@ Assets:
 
 + User is able to view their personal budget
 
-+ User is also able to add expenses and income to update their budget in real time.
++ User is also able to add expenses and income to update their budget in real time
+
++ User can add expenses and incomes both online and offline
 
 ## How to Contribute
 
