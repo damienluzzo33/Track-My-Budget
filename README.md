@@ -44,21 +44,21 @@ If you are interested in improving or modifying this application for your own pe
 
 ## Screenshots
 
-Desktop:
+### Desktop:
 ![Desktop view of application](./public/images/track-my-budget-desktop.png)
 
-Mobile:
+### Mobile:
 ![Mobile view of application](./public/images/track-my-budget-mobile.png)
 
 ## Credits
 
 Assets:
 
-+ [express]()
++ [express](https://github.com/expressjs/express)
 
-+ [mongoose]()
++ [mongoose](https://github.com/Automattic/mongoose)
 
-+ [compression]()
++ [compression](https://github.com/expressjs/compression)
 
 ## License
 
